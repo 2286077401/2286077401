@@ -8,7 +8,7 @@
 
 <a href="https://github.com/2286077401">
   <div align="right" >
-     <img align="right" src="<img src="https://access-counter.vercel.app/api/counter?name=2286077401&theme=003" />7" alt="陈治巧" />
+     <img align="right" src="<img src="https://access-counter.vercel.app/api/counter?name=2286077401&theme=003" /> alt="陈治巧" />
   </div>
 </a>
 
