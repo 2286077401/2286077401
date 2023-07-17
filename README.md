@@ -8,7 +8,7 @@
 
 <a href="https://github.com/wangrongding">
   <div align="right" >
-     <img align="right" src="https://access-counter.vercel.app/api/counter?name=wangrongding&theme=006&length=7" alt="汪荣顶" />
+     <img align="right" src="https://access-counter.vercel.app/api/counter?name=wangrongding&theme=006&length=7" alt="陈治巧" />
   </div>
 </a>
 
