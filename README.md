@@ -6,9 +6,9 @@
   <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="30" />
 </h3>
 
-<a href="https://github.com/wangrongding">
+<a href="https://github.com/2286077401">
   <div align="right" >
-     <img align="right" src="https://access-counter.vercel.app/api/counter?name=wangrongding&theme=006&length=7" alt="陈治巧" />
+     <img align="right" src="<img src="https://access-counter.vercel.app/api/counter?name=2286077401&theme=003" />7" alt="陈治巧" />
   </div>
 </a>
 
