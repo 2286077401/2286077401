@@ -1,9 +1,6 @@
 # Helllo~👋，这里是迪迦👻，欢迎你来到我的Github! 🚀
 ## 面向对象面向君，不负代码不负卿👯
 ## 专业技能：前台端菜 😜😆😋
-<a href="[https://github.com/2286077401](http://blog.bitsai.cn/)">
-  blog
-</a>
 <h3>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" alt="手势">
   Hi there! I'm 迪迦~ 
@@ -19,7 +16,7 @@
 <!-- ======================================= -->
 
 - 😄Read more about my [Blog]
-- 👯Follow me on [gitHub](https://github.com/2286077401/aboutMe) ,[CSDN](https://blog.csdn.net/2303_76218115) 
+- 👯Follow me on [gitHub](https://github.com/2286077401/aboutMe) ,[CSDN](https://blog.csdn.net/2303_76218115) ,[个人博客](http://blog.bitsai.cn/) 
 
 <!-- https://readme-typing-svg.demolab.com/demo/ -->
 
